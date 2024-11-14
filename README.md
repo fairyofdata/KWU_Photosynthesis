@@ -1,4 +1,4 @@
-# 서동광장 : 서동도협 소속 학생들을 위한 종합 성장 플랫폼
+# 서동광장 : 서동도협 회원교 학생들을 위한 교류 플랫폼
 
 ![프로젝트 로고](https://github.com/fairyofdata/KHS_temp/blob/main/%EC%84%9C%EB%8F%99%EB%8F%84%ED%98%91%EB%A1%9C%EA%B3%A0.jpg)
 
